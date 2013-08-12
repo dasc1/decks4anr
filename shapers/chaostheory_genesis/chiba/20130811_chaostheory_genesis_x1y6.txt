@@ -1,0 +1,35 @@
+Identity: Shapers: Chaos Theory
+
+Cards: 40 / 40
+Influence: 0 / 15
+
+Event (11)
+3x Indexing 
+1x Kraken 
+2x Notoriety 
+2x Quality Time 
+3x Test Run 
+
+Hardware (8)
+2x Dinosaurus 
+1x Dyson Mem Chip 
+1x Plascrete Carapace 
+2x R&D Interface 
+2x Replicator 
+
+Program (10)
+2x Creeper 
+2x Deep Thought 
+2x Deus X 
+2x Snowball 
+2x ZU.13 Key Master 
+
+Resource (11)
+2x All Nighter 
+1x Inside Man 
+1x Kati Jones 
+1x New Angeles City Hall 
+2x Personal Workshop 
+1x Public Sympathy 
+2x The Helpful AI 
+1x Underworld Contact 

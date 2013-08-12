@@ -1,0 +1,36 @@
+Identity: Weyland: Because We Built It
+
+Cards: 47 / 45
+Agenda points: undefined / 20
+Influence: 0 / 15
+
+Agenda (9)
+1x Corporate War 
+1x Executive Retreat 
+1x False Lead 
+3x Government Contracts 
+3x Project Atlas 
+
+Asset (4)
+3x Dedicated Response Team 
+1x Private Contracts 
+
+Ice (17)
+3x Burke Bugs 
+3x Caduceus 
+1x Chimera 
+1x Draco 
+3x Salvage 
+3x Tyrant 
+3x Woodcutter 
+
+Operation (11)
+3x Commercialization 
+1x Foxfire 
+1x Freelancer 
+3x Oversight AI 
+3x Power Grid Overload 
+
+Upgrade (6)
+3x Amazon Industrial Zone 
+3x Simone Diego 
