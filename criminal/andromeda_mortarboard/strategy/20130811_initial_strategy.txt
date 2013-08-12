@@ -1,0 +1,43 @@
+Andromeda - Mortarboard
+
+The idea of this deck is to come out of the gate fast, hit the corp early with runs, then generate money reliably by increasing link and playing the Underworld Contacts.  The ice breakers are the best in the business, and are pumpable (I spent all my influence to get the best).
+
+ECONOMY (OK, maybe this is overkill)
+
+1x Armitage Codebusting 
+2x Bank Job 
+3x Compromised Employee 
+3x Underworld Contact 
+2x Account Siphon 
+2x Easy Mark 
+3x Sure Gamble 
+2x Magnum Opus ●●●●
+
+PENETRATION
+2x Inside Job 
+2x Special Order 
+1x Snowball ●●
+1x ZU.13 Key Master ●●
+1x Corroder ●●
+1x Femme Fatale 
+1x Gordian Blade ●●●
+2x Ninja 
+
+SAFETY
+2x Satellite Uplink 
+1x Snitch 
+
+LINK
+3x Dyson Mem Chip 
+1x The Helpful AI ●●
+
+TACTICS
+2x Forged Activation Orders 
+1x HQInterface 
+1x Pheromones 
+2x Sneakdoor Beta 
+1x Crescentus 
+
+OTHER
+1x Doppelganger 
+1x Mr. Li 

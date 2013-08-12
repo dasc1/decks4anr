@@ -1,0 +1,40 @@
+Identity: Haas-Bioroid: Stronger Together
+
+Cards: 45 / 45
+Agenda points: undefined / 20
+Influence: 8 / 15
+
+Agenda (9)
+3x Accelerated Beta Test 
+3x Corporate War 
+3x Priority Requisition 
+
+Asset (7)
+1x Adonis Campaign 
+2x Aggressive Secretary 
+1x Eve Campaign 
+1x Melange Mining Corp 
+1x PAD Campaign 
+1x Private Contracts 
+
+Ice (16)
+1x Chimera 
+3x Eli 1.0 
+1x Heimdall 1.0 
+1x Hourglass 
+3x Ichi 1.0 
+2x Janus 1.0 
+2x Rototurret 
+1x Sherlock 1.0 
+2x Viktor 1.0 
+
+Operation (11)
+2x Archived Memories 
+2x Beanstalk Royalties ●●
+3x Green Level Clearance 
+1x Hedge Fund 
+3x Oversight AI ●●●●●●
+
+Upgrade (2)
+1x Ash 2X3ZB9CY 
+1x Corporate Troubleshooter 

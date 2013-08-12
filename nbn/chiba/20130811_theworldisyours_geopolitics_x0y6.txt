@@ -1,0 +1,41 @@
+Identity: NBN: The World is Yours
+
+Cards: 40 / 40
+Agenda points: undefined / 18
+Influence: 12 / 12
+
+Agenda (9)
+2x AstroScript Pilot Program 
+1x False Lead 
+3x Private Security Force 
+2x Project Beale 
+1x Restructured Datapool 
+
+Asset (6)
+1x Dedicated Response Team ●●●
+1x Ghost Branch 
+1x Marked Accounts 
+1x Melange Mining Corp 
+2x PAD Campaign 
+
+Ice (14)
+2x Chimera 
+2x Data Raven 
+2x Enigma 
+1x Hunter 
+1x Ice Wall ●
+1x Matrix Analyzer 
+1x TMI 
+2x Tollbooth 
+2x Wall of Static 
+
+Operation (10)
+1x Anonymous Tip 
+2x Closed Accounts 
+2x Hedge Fund 
+1x Psychographics 
+2x SEASource 
+2x Scorched Earth ●●●●●●●●
+
+Upgrade (1)
+1x SanSan City Grid 
