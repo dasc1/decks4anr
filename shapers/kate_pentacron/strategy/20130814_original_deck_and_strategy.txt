@@ -1,0 +1,44 @@
+This is a deck that I have seen on youtube created by this guy Dupl3xity - he calls it EvoKate.  The main breaker is Darwin, and the idea is that you pump it up to acceptable levels with The Personal Touch.  Since that is hardware, you can quickly get three copies out of your deck once you get one Replicator, and one The Personal Touch, then put all three on the same Darwin, and you have a wrecking machine, which will need to be cleared of virus counters regularly.
+
+Of course, you need to find a Darwin to make this work, so we use in-faction Self Modifying Code to do this.  This can also be used to find Magnum Opus, as it will take a lot of money to run this deck.  Daily Casts is another economic card, which usefully provides money at the start of turn, when you need to pump Darwin.  The Feedback Implants make Darwin a lot cheaper to use when there are a lot of subroutines to break, and they are obviously necessary against HB these days in any case.  
+
+There are a couple of features I don't really understand - the super-fast card draw (Diesel, Quality Time, is it all really necessary?), and the quality breakers - Femme Fatale makes sense (for stuff too big for Darwin), but Battering Ram and Gordian Blade?  The Toolbox looks a little questionable, but it is the in-faction console.
+
+Datasuckers are necessary to bring big ice down to Darwin.  There are some big programs here, so Modded will probably come in handy.  Maker's Eye is just a good card, and Infiltration is very versatile.  Plascrete protects you from tag n' bag - a useful precaution I guess.
+
+Dupl3xity has worked on this deck a while, and there are many youtube videos of him using this deck (and its precursors), so I might be able to glean some more information from those.
+
+Here is the original starting point deck (post Creation and Control).
+
+Identity: Shapers: Kate "Mac" McCaffrey
+
+Cards: 45 / 45
+Influence: 14 / 15
+
+Event (13)
+3x Diesel 
+3x Infiltration 
+3x Modded 
+2x Quality Time 
+2x The Makers Eye 
+
+Hardware (16)
+2x E3 Feedback Implants ●●●●
+2x Feedback Filter 
+2x Plascrete Carapace 
+2x R&D Interface 
+3x Replicator 
+3x The Personal Touch 
+2x The Toolbox 
+
+Program (13)
+1x Battering Ram 
+2x Darwin ●●●●●●
+3x Datasucker ●●●
+1x Femme Fatale ●
+1x Gordian Blade 
+2x Magnum Opus 
+3x Self-Modifying Code 
+
+Resource (3)
+3x Daily Casts 
