@@ -1,0 +1,44 @@
+This deck is based on an interesting Jinteki deck that I saw posted on cardgamedb.com called "Ronin Hokusai Servers v2".  The author seems to have worked on it a bit, and I love the idea of using Rework, Precognition and Executive Retreat to stuff the agendas back into the deck.  Going low on ice is a cool idea if you can pull it off.  This deck is certainly worth a try - if I like it, I will tweak it, and keep it up to date as new cards are released.
+
+Another core idea is "pesky ice", relatively cheap to rez, and expensive to run through.  The assets in the deck are also expensive to trash, allowing you to gain further economic advantage against the runner.  The runner is going to have to be super-careful with all the venom in the deck (Junebug, Ronin, Snare, Hokusai, Neural Katana), even though I think the Hokusai Grids might actually do more damage by just draining the runner of cards rather than actually going for the kill.  There is also some tag ability in the deck - combined with Private Security Force, this gives the runner another threat to think about.
+
+Trick of Light can be used to reuse the Junebugs, and allow a faster advance.
+
+Here is the initial deck as posted online.
+
+Identity: Jinteki: Replicating Perfection
+
+Cards: 49 / 45
+Agenda points: undefined / 20
+Influence: 15 / 15
+
+Agenda (9)
+2x Braintrust 
+2x Executive Retreat 
+3x Fetal AI 
+2x Private Security Force 
+
+Asset (14)
+3x PAD Campaign 
+3x Private Contracts 
+2x Project Junebug 
+3x Ronin 
+3x Snare 
+
+Ice (13)
+1x Bastion 
+2x Chimera 
+2x Eli 1.0 ●●
+2x Matrix Analyzer ●●●●
+3x Neural Katana 
+1x Shadow ●
+2x Viktor 2.0 ●●●●●●
+
+Operation (10)
+3x Hedge Fund 
+3x Precognition 
+2x Rework ●●
+2x Trick Of Light 
+
+Upgrade (3)
+3x Hokusai Grid 

@@ -1,0 +1,36 @@
+Identity: Jinteki: Replicating Perfection
+
+Cards: 49 / 45
+Agenda points: undefined / 20
+Influence: 15 / 15
+
+Agenda (9)
+2x Braintrust 
+2x Executive Retreat 
+3x Fetal AI 
+2x Private Security Force 
+
+Asset (14)
+3x PAD Campaign 
+3x Private Contracts 
+2x Project Junebug 
+3x Ronin 
+3x Snare 
+
+Ice (13)
+1x Bastion 
+2x Chimera 
+2x Eli 1.0 ●●
+2x Matrix Analyzer ●●●●
+3x Neural Katana 
+1x Shadow ●
+2x Viktor 2.0 ●●●●●●
+
+Operation (10)
+3x Hedge Fund 
+3x Precognition 
+2x Rework ●●
+2x Trick Of Light 
+
+Upgrade (3)
+3x Hokusai Grid 
