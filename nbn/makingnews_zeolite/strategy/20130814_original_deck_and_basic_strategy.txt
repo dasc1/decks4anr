@@ -1,0 +1,75 @@
+
+This is a deck that I copied directly from cardgamedb.com, and it is one of the most popular decks on the site, certainly the most popular NBN.  It advocates a fast advance strategy as outlined below - you put assets out in remote servers behind porous ice, and leave them unadvanced.  Usually, you want to try and advance your agendas all at once, but if the runner is determined to dig out your agendas, he has to be prepared to run into snares and edge of worlds.  Anyhow, the author describes it best below.
+
+The deck only uses cards through Cyber Exodus, so I can probably make significant improvements and style tweaks using new available cards.  It is probably wise to try out this deck archetype, and figure out its weaknesses should I face it some time in the future with my runner decks.
+
+-------------------------------------------------
+
+Strategy
+
+The premise of this deck is that any of its Agendas, Economy Assets, Trap Assets, and Upgrades all &quot;masquerade&quot; as one another in this deck. Each of the cards is played face down and left unrezzed until at least the current turn (and possibly more) have passed. With ICE and Operations taking up roughly half the deck, that leaves the other half to confuse and induce analysis paralysis in the runner, since each card might be an agenda, a trap, or a high trash-cost upgrade or economy card.
+
+My deckbuilding inspiration for this deck actually came from failed attempts to attain a high win rate with any Jinteki decks I built. With Jinteki's recently popularity, I have encountered several opponents that have made me believe that this IS possible in Jinteki, but speaking for myself, I encountered several different problems with this faction:
+
+1) Advancing cards is expensive in a faction strapped for money already; failing to connect with an advanced Junebug or Aggressive Secretary is a pretty drastic blow not only to economy but tempo as well. Losing the clicks is no small thing for a faction that seems to constantly want to draw and install.
+
+2) Jinteki's traps belong to two seperate classes which are both easy to distinguish from one another. Junebug (and in the future, Ronin) can only hurt the Runner when advanced, while Snare and Edge of World cannot be advanced at all. Junebug and Ronin are further distinguishable from any economic asset or upgrade. Since Jinteki's fast-advance mechanics are limited to Trick of Light, their agendas are mostly split according to the advanced vs not advanced classification as well.
+
+3) These two problems led me to try building a Jinteki deck that had only unadvanceable traps, but that led me to another problem: Jinteki has has a hard time making unadvanced cards feel threatening enough to provoke the Runner into running down a protected fortress, since Braintrust is their only 3/2 agenda and provides no threat beyond its two agenda points when scored from an unadvanced state.
+
+
+The realization that Braintrust wasn't a threatening enough agenda to score if the runner left it alone immediately made me start exploring the idea of trying a trap deck in NBN, because I believe that Astro Pilot Program is the most threatening agenda in the game that can be scored with 3 advancements. NBN shares another quality with Jinteki that is important to a deck intending to use traps: its ICE is fairly porous, meaning that the Runner is able to break into a server at any time they wish, provided they are able to pay the cost.
+
+The key in this deck, like in Jinteki, is to make the Runner question whether or not they are WILLING to break into the server, even if they are ABLE to do so.
+
+Deciding on having only unadvanceable traps in the deck has an important ramification - each of the upgrades and economy assets that I play are then indistinguishable from the traps. Even though there are only 5 traps in the deck, there are 8 more cards which each threaten to be a trap. 7 out of 8 of these cards (Red Herrings being the odd man out) have a high trash cost, which helps allay another problem in the Jinteki deck: Ambush assets all have 0 trash cost; including them makes R&D and HQ even more vulnerable than it would normally be otherwise.
+
+Going back to Astro , these assets now threaten something else as well: &quot;What if it's an Astro ?&quot; Many Runners are fearful of allowing an NBN deck to score its first Astro , since it is so enabling to the remainder of their fast advance strategy. Indeed this deck will often take advantage of fast-advance strategies to close out its games. While Jinteki, in my experience, won't lure a Runner into spending credits chasing down an unadvanced card if it is behind more than one ICE, the opposite seems true with NBN - my opponents are often willing to run ANYTHING that gets installed until the first time they hit Edge of World.
+
+The only two ambushes that actually hurt the Runner from an unadvanced state are Snare! and Edge of World, so including them means we have to have some way of threatening the Runner with a flatline, lest they be ignored. The Private Security Force agenda thus plays an enormously important role in this deck. NBN's Closed Accounts card is often not enough on its own to make tags threatening to a Runner, particularly one which makes little use of resources (though that's often not the case now that Personal Workshop is available). With Private Security Force scored, Data Raven becomes a pretty significant nuisance. With PSF and a landed Edge or Snare, Data Raven becomes one of the most threatening ICE in the game. About 30% of my wins with the deck are secured via flatline. Even against a fully-rigged Runner with a bankroll, the Data Ravens in this deck provide pretty significant defense against repeated central server runs due to their on-encounter tag.
+
+Because the base strategy is to play cards unadvanced, this deck has a significant advantage on other fast advance NBN decks for getting Private Security Force scored - only one fast-advance option (Astro token, rezzed SanSan, Psychographics, etc.) needs to be available to score it from unadvanced state, versus two being required to fast-advance it from HQ. That's a pretty important feature of the deck since it becomes extremely dangerous once PSF is scored.
+
+Scoring Restructured Datapool and Private Security Force with no fast advance capabilities in play does violate the base premise of the deck strategy, but it's not altogether uncommon to have a turn available where these can be safely played and advanced once a Closed Accounts has landed. While the current instantiation of the deck does not make use of Psychographics, that would certainly be an option for scoring these as well. I have not been playing with Psychographics, because once Project Beale is released, I intend to replace Restructured Datapool with that card. While Datapool is very threatening when scored in conjunction with PSF, with 5 points scored already, the game can likely be won without that threat.
+
+I have playtested several different variations on this deck, all of which have proven strong; my record with all the variants combined is undefeated in around 20 games. The current decklist here is 11-0. Note that &quot;undefeated&quot; certainly does NOT mean &quot;undefeatable&quot;! I'm sure many of the folks here on BGG that will be reading this post are precisely the folks who could give it its first loss! However, I am convinced that many variations on this new NBN archetype will prove strong enough to be just as viable as the more standard fast advance builds, particularly in the hands of Corp players who are fond of stategies that confuse the Runner.
+
+---------------------------------
+
+ORIGINAL DECK
+
+Identity: NBN: Making News
+
+Cards: 49 / 45
+Agenda points: undefined / 20
+Influence: 14 / 15
+
+Agenda (10)
+3x AstroScript Pilot Program 
+2x Breaking News 
+3x Private Security Force 
+2x Restructured Datapool 
+
+Asset (10)
+2x Edge of World ●●●●
+3x Marked Accounts 
+2x PAD Campaign 
+3x Snare ●●●●●●
+
+Ice (21)
+2x Caduceus ●●●●
+2x Chimera 
+3x Data Raven 
+2x Enigma 
+3x Pop-up Window 
+3x TMI 
+3x Tollbooth 
+3x Wall of Static 
+
+Operation (5)
+2x Closed Accounts 
+3x Hedge Fund 
+
+Upgrade (3)
+1x Red Herrings 
+2x SanSan City Grid 

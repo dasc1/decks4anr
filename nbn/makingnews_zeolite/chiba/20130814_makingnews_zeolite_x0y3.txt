@@ -1,0 +1,35 @@
+Identity: NBN: Making News
+
+Cards: 49 / 45
+Agenda points: undefined / 20
+Influence: 14 / 15
+
+Agenda (10)
+3x AstroScript Pilot Program 
+2x Breaking News 
+3x Private Security Force 
+2x Restructured Datapool 
+
+Asset (10)
+2x Edge of World ●●●●
+3x Marked Accounts 
+2x PAD Campaign 
+3x Snare ●●●●●●
+
+Ice (21)
+2x Caduceus ●●●●
+2x Chimera 
+3x Data Raven 
+2x Enigma 
+3x Pop-up Window 
+3x TMI 
+3x Tollbooth 
+3x Wall of Static 
+
+Operation (5)
+2x Closed Accounts 
+3x Hedge Fund 
+
+Upgrade (3)
+1x Red Herrings 
+2x SanSan City Grid 
