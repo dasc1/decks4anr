@@ -1,0 +1,97 @@
+This is designed to be loosely a 'rigless deck' in Shaper, which is now
+possible due largely to Kit's ability to operate fairly well with a single
+breaker (code gate), and various program tutoring devices which enable the
+runner to access dead programs from the heap (so there isn't as much fear of
+losing your programs).
+
+Obviously, you need to be able to pull a decoder ASAP to make use of Kit.
+There are two Yog.0s, one Cyber-Cypher, and three Test Runs, or six cards in
+total which can get you going.  Obviously the Test Runs can also be used to
+get other breaker types later on if you need them.  Now we don't have the full
+suite of criminal operations, but Shaper has a few interesting wrecking balls
+of their own.  Perhaps the most devastating is Indexing - use this to put
+agendas at the top of R&D, and scoop them up on a subsequent run.  NOTE: I
+later realized that Kit's power only applies for the first ice encountered
+PER TURN, and only works until the end of the RUN, so that dampens the combo
+quite a bit - if the foremost ice is not code gate, you might need something
+else to get past twice, and maximize the use of indexing.
+
+Makers Eye is another R&D wrecking ball, and I also added some Eschers to add
+a secondary threat to HQ.  It would be nice to also put pressure on Archives
+and the remotes, but this is hard to do right now in shaper - maybe there is
+room for improvement here.
+
+This deck is loose and fast, and Tinkering will obviously be useful for making
+well-timed devastating runs on staunchly defended servers - the effect lasts
+for the entire turn.
+
+I don't have any extra memory (only 8 programs!), but I don't really like
+Shaper's expensive multi-purpose consoles much, except Dinosaurus, which is
+great with they Yogs, making them super-efficient, and which frees up memory
+if needed.  I thought about using an Omni-Chip or two, but with the deck being
+the speed that it is, I didn't bother, 3 Dinosaurus' will do the job, and will
+increase the likelihood of getting a Yogosaurus early on.
+
+I intend to be drawing quickly (Diesel will help), and tossing a few programs
+in the trash, because this sets up a Test Run - Scavenge combo, where the
+'temporary' test run program can be sacrificed to pull up a real version at no
+cost.  This will also give me an opportunity to put things into Dinosaurus,
+e.g. if I get a yog trashed, then play dinosaurus, I can test run the other
+yog, then scavenge it to install the other in the dinosaurus.  The clone chips
+will also work well with trashed programs, obviously, and if I have a breaker
+of each type in the trash, I can pull up the one I need in the middle of a run
+if I have the cash and a spare clone chip.
+
+E3, Feedback Filters, and Plascrete Carapace are general defensive cards
+against certain strong corp archetypes.  Most money comes from Dirty Laundry
+(entirely appropriate in this running deck, especially if you use it on the
+first run with yog(osaurus)), and Sure Gamble.  Professional Contracts is also
+good, of course, without putting any strain on memory.  The Helpful AI should
+be really useful for it's one-time boost to one of the breakers to push it
+over the top (probably a fixed-strengther like Atman or Yog).
+
+Anyway, the deck tends to crash through very quickly, and it is also fairly
+easy to get a full set of breakers installed with good economy if your attack
+gets stalled, although it does lack cards that augment the damage from runs
+(except Indexing and Maker's Eye).  It would also be nice to create more
+vulnerable targets - find a way to make Archives and the Remote servers more
+juicy, and force the corp to spread thin, making Kit's special power even
+better.
+
+ORIGINAL DECK
+
+Identity: Shapers: Rielle 'Kit' Peddler
+
+Cards: 45 / 45
+Influence: 9 / 10
+
+Event (23)
+3x Diesel 
+2x Dirty Laundry 
+2x Escher 
+3x Indexing 
+2x Scavenge 
+2x Sure Gamble 
+3x Test Run 
+3x The Makers Eye 
+3x Tinkering 
+
+Hardware (10)
+2x Clone Chip 
+3x Dinosaurus 
+2x E3 Feedback Implants ●●●●
+1x Feedback Filter 
+2x Plascrete Carapace 
+
+Program (8)
+1x Atman 
+1x Corroder ●●
+1x Crypsis 
+1x Cyber-Cypher 
+1x Deus X 
+1x Femme Fatale ●
+2x Yog.0 ●●
+
+Resource (4)
+2x Professional Contacts 
+2x The Helpful AI 
