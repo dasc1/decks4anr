@@ -1,0 +1,51 @@
+This is my first attempt to play a serious NBN deck.  The main strategy is fast advance, so you have several small agendas like 2/1 Breaking News, and 3/2 AstroScript and Beale.  The ice is mainly economic ice - we aren't really trying to stop them, we are trying to tax them.  If the runner doesn't have credits to break our ice, they are effectively stopped.  Why don't we care?  We will score most agendas out of hand (using SanSan, AstroScript and Trick of Light to help), and otherwise, we will put the agenda down without advancement and score it later.  The other assets can be used as decoys, goading the runner to pay for the ice and break in, only to face a huge trash cost for an unrezzed card (Marked Accounts), or slippery Jackson Howard, who can rez and trigger if necessary.  You still need some ice in front of the server obviously, there are no traps.
+
+This deck is based on a tournament winning deck by Will Hatton, who had 3xBreaking news along with Closed Accounts and Freelancer, which combo with that agenda quite nicely.  Tag without the bag.  Freelancer (and the regular 2+click to trash) will eliminate economic resources, and Closed Accounts keeps the runner poor.  Will played with more ice and more agendas, but I wanted to get the Jackson Howards in there, so I took out a couple of Archers, and traded a Gila + Breaking News for a Character Assassination to free up another card.  Hopefully Jackson's draw effect will give me more draw, and compensate for a lower amount of ice.  Also I traded out a few other cards to try some new ones and see how they do:
+
+  - Character Assassination
+  - Big Brother
+  - Foxfire
+  - Trick of Light
+
+I'm sure they won't all work, and whichever ones don't, maybe I can take them out, and use the extra card to split a Character Assassination or PSF into two smaller agendas, another Breaking News and a Gila Hands.  Or maybe double up on the cards that work?  I left the ice mostly alone, although I removed one economy card, so I replaced a Tollbooth with a Data Raven, and a Draco with an Ice Wall.  There are obviously other adjustments that I can make.  Caduceus, Ice Wall, and Shadow seem to be great uses of influence - Caduceus is a monster for NBN, Ice Wall stops Atman, and helps Trick of Light, and Shadow also helps Trick of Light, and improves the economy, tagging ability.  Lets see if this deck can make good use of those tags - if not, I might need to add some more venom somehow.
+
+ORIGINAL DECK
+
+Identity: NBN: Making News
+
+Cards: 49 / 45
+Agenda points: undefined / 20
+Influence: 15 / 15
+
+Agenda (11)
+3x AstroScript Pilot Program 
+2x Breaking News 
+2x Character Assassination 
+1x Private Security Force 
+3x Project Beale 
+
+Asset (8)
+3x Jackson Howard 
+3x Marked Accounts 
+2x Melange Mining Corp 
+
+Ice (18)
+2x Bastion 
+3x Caduceus ●●●●●●
+2x Data Raven 
+3x Ice Wall ●●●
+3x Pop-up Window 
+3x Shadow ●●●
+2x Tollbooth 
+
+Operation (9)
+1x Big Brother 
+2x Closed Accounts 
+1x Foxfire 
+1x Freelancer 
+3x Hedge Fund 
+1x Trick Of Light ●●●
+
+Upgrade (3)
+1x Bernice Mai 
+2x SanSan City Grid 
