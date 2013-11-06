@@ -1,0 +1,37 @@
+Identity: Shapers: Exile
+
+Cards: 45 / 45
+Influence: 15 / 15
+
+Event (17)
+3x Diesel 
+3x Freelance Coding Contract 
+1x Levy AR Lab Access 
+3x Quality Time 
+3x Scavenge 
+1x Stimhack ●
+3x Test Run 
+
+Hardware (8)
+3x Clone Chip 
+2x Dinosaurus 
+1x Omni-Drive 
+2x Plascrete Carapace 
+
+Program (19)
+2x Atman 
+1x Corroder ●●
+1x Crescentus ●
+1x Cyber-Cypher 
+1x Datasucker ●
+1x Deus X 
+1x Faerie ●●●
+2x Femme Fatale ●●
+3x Magnum Opus 
+1x Nerve Agent ●●
+1x Parasite ●●
+3x Self-Modifying Code 
+1x Yog.0 ●
+
+Resource (1)
+1x Same Old Thing 
