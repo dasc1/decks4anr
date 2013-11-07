@@ -1,0 +1,38 @@
+Identity: Haas-Bioroid: Next Design
+
+Cards: 49 / 45
+Agenda points: undefined / 20
+Influence: 11 / 12
+
+Agenda (10)
+3x Accelerated Beta Test 
+1x Director Haas' Pet Project 
+2x False Lead 
+3x Priority Requisition 
+1x Project Vitruvius 
+
+Asset (7)
+2x Adonis Campaign 
+3x Jackson Howard ●●●
+2x Melange Mining Corp 
+
+Ice (21)
+2x Chimera 
+2x Draco 
+1x Eli 1.0 
+3x Heimdall 2.0 
+3x Ice Wall ●●●
+1x Ichi 1.0 
+3x Ichi 2.0 
+1x Janus 1.0 
+3x Pop-up Window ●●●
+2x Viper 
+
+Operation (10)
+3x Bioroid Efficiency Research 
+3x Green Level Clearance 
+3x Hedge Fund 
+1x Oversight AI ●●
+
+Upgrade (1)
+1x Awakening Center 

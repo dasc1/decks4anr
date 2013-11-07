@@ -1,0 +1,140 @@
+Helpful Strategy Comments From the BGG Thread "Dirty Hands: Exile Deck"
+
+THE ORIGINAL DECK
+
+IDENTITY: Exile (45 cards)
+
+Events: 17
+
+Diesel X3
+Quality Time x3
+Freelance Coding Contract x3
+Test Run x3
+Scavenge x3
+Levy AR Lab Access x1
+Stim Hack x1 *
+
+Hardware: 8
+
+Clone Chip x3
+Dinosaurus x2
+Omni-Drive x1
+Plascrete x2
+
+Programs: 19
+
+Magnum Opus x3
+Self-Modifying Code x3
+Atman x2
+Deus X x1
+Cyber-Cypher x1
+Femme Fatale x2 **
+Faerie x1 ***
+Crescentus x1 *
+Datasucker x1 *
+Parasite x1 **
+Corroder x1 **
+Yog.0 x1 *
+Nerve Agent x1 **
+
+Resources: 1
+
+Same Old Thing x1
+
+In terms of strategy, the deck is a silver bullet machine--your heap is ostensibly your hand. The deck is grotesquely adaptable. I have been playing this in my league here in Indy and have lost a single game with it (this was with a prior incarnation with no Plascretes and a far less tailored program suite). With Self-Mod, Clone Chip, Test Run, and even Scavenge, you can adapt and overcome, easily, in almost any situation. The density of draw effects coupled with the tutoring means that playing things like Nerve Agent and Deus X is optimal (esp. when you are trashing them for bucks). There is an answer for every problem.
+
+The ideal starting hand has a Quality Time and/or Diesel, in which you hope to roll into Freelance Coding Contract--you wanna fill up your heap anyway, so why not make a few bucks in the process. As far as econ in this deck, while it may look like it is lacking in this dept., it is not-- at all. I never, ever, have $ probs with this deck. Ever. I can find Magnum easily--ironically the 2 MU isn't an issue, as I am cycling programs relatively often/have the sole Omni and the Dinosaurus where needed. Admittedly, Coding Contract doesn't always work, but the fact you can profit WHILE seeding your heap for gross abuse is a nice bonus. Magnum is the primary credit engine in this, which you can get back in a bazillionty ways if for some reason it gets blown up. (Test Run with Scavenge means you don't have to put this, or any other program back on top, as you can trash it to get back itself, at worst, and draw a card in the process!)
+
+The goal is to cycle through quickly, to get Clone Chips, your Dinosaurus out, and start poking and prodding at servers, figuring out what ICE is out there, hopefully snatching agendas in doing so. The Levy AR Lab Access is a reset, as you can easily tear through your deck in the first 5-8 turns of the game, no problem. The Same Old Thing was added as a back up for the reset, as I have lost it to damage effects--it is worth mentioning, that even in these instances, I was able to win through recursionary effects. After you reset, you rinse repeat, at which point, you should be able to mosh servers left and right. Same Old has def lost some its luster, after I took out Escher (which was going to become an Indexing, but with Action Jackson so hyped, it just seemed like a bad idea), but, often I will use it for burst econ/heap seeding, or to draw up with Quality Time (which just owns Jinteki). Escher proved redundant, as I set up my heap suite, gain bucks, and just plow through.
+
+Regarding specific card choices:
+
+Stim Hack: I played 2 of these forever, as it is insane with SMC and Clone Chip, but I always have creds, and, as I draw through my deck so quickly, it seems more often a precision card rather than boost econ for tutoring. 1 copy is more than enough (don't forget Same Old Thing AND Levy resetting). With this being the ONLY non-program out-of-faction influence, it is conceivable that Professor would work just fine with this strategy.
+
+Omni-Drive: I was playing 3 of these, and it def proved to be overkill. Perhaps Akamatsu Mem Chip is the right call here, but the extra credit from this gets used a TON throughout a game. I feel like a single copy is just fine. There are instances where I need to boost my MU, though I have won a lot of games with 1 or no breaker left on the table at the end.
+
+Dinosaurus: This is def the console for this deck. While it is a big expense upfront, it more than pays for itself over the course of a game. Being able to flash in the right breaker, and have its strength increased is just amazing. Helping with MU is a nice passive ability for the deck, when you are sitting on Magnum and a SMC, as well. (I won't lie--I have considered Monolith at moments).
+
+Faerie: Obv it's cheap for Clone Chip and SMC. It owns Archer ambush tactics, and ICE cheat like Oversight AI on Janus, etc.
+
+Deus X: Duh. Jinteki hate. I have considered increasing this to 2 copies because of my meta, but 1 has been enough.
+
+Femme Fatale: With Test Run and Scavenge... my god. These are like the grossest Inside Jobs on steroids ever here (compliments of Dinosaurus). I love Femme, but it shines like crazy in this deck. You need to play more than 1 so that you can get out multiples where needed/reliably draw 1 in the early game--I NEVER SMC Femme out, never. It's best to never let them go back to the top of the deck with Test Run (which Scavenge obv interrupts), so I often will drop another cheap program and sac Femme regardless of my MU if I am in a pinch.
+
+Datasucker/Parasite/Crescentus: Sucker+Parasite is pretty obvious. I was slow to add this in, but Parasite just kills so many things: Pop-up, Data Mine, Roto, Chimera, you know the drill. Datasucker is a nice freeroll when you are pounding central servers, and obv pairs well with Parasite to machine gun ICE--I usually will load up a sucker and then take down something big with the parasite, like an Archer. It's also nice with Atman and Yog (which both can flop on Dino to nasty ends). Crescentus is just big ICE punishment--I don't use it much, but it's there when needed, esp. if they player blows their bankroll on a big ICE.
+
+Nerve Agent: I am sure some of you are asking why there is no R&D interface or Maker's Eye for multiple card access in this deck, since they are in faction. First off, I need a high program density to make Freelance Coding viable (which IS viable in this deck, if not necessary). Secondly, as I am Shaper, the expectation is that I am playing these cards anyway, which often elicits walling up R&D pretty heavily. With my ability to punch through servers (which admittedly applies to R&D), I have found that players will very often let agendas accrue in hand. So, I gave this a try.
+
+In all honesty, I have never seen this card be AS scary as it is in this deck. I played some games tonight where people were forced to fortify the crap out of their hand, which then allowed me to shift focus back to their R&D. Trust me, this card is right in here. At the worst, corp has to spend a turn to wipe the counters, at which point, if needed, you can Scavenge this away.
+
+Atman: I was slow to accept this card was as good as it is. With Datasucker, it def gets better (as we have seen). With all the resetting in the deck, Atman is a nice adaptable tool.
+
+Edit: No Atman on Dino
+Plascrete: I would rather not be playing these, but, let's be honest--they are necessary. The draw power in the deck makes them negligible in dead matches.
+
+So that's pretty much it. This is a solid deck that def rewards play style/skill, and I encourage you to give it a run (before you open up that can of haterade). If you like drawing tons of cards and having an answer at your disposal in the blink of an eye, give this deck a go.
+
+--------------------------------------
+
+NetEldrogo wrote:
+akamatsu mem chip vs omnidrive, I don't see why akamatsu wins, the deck has many programs with 1$ actions.
+
+But it being one or the other, you certainly need 3 with that much programs.
+
+
+I need one, trust me. I am swapping programs in and out as needed. 1 is more than enough. You do not just sit on programs all game like a normal deck. This is rig now, not rig later. A lot of ICE comes and goes from Femme, Parasite, Crescentus, and generally out-classing them. I have won a lot of games with a single breaker out (or none) and MO as the only other program. 
+
+-------------------------------------
+
+I commented on this earlier in the thread--I usually have MO out on turn 1, turn 2 at latest. With the draw density, SMC, and Test Run, you would have to be very unlucky to not find it.
+
+In terms of this deck's ability to press aggression early, it absolutely can--just remember, it is a utility belt type deck, so if your hand is Nerve Agent, Crescentus, and Datasucker, you will have to dig--like any deck.
+
+My only losses this far with this have been to a Weyland Scorched kill, which I walked into like a moron, and against another Weyland deck last night--I think I played a tad wrong in this matchup (I got a weird draw, and should have kept digging more aggressively).
+
+So, no, thus far, I have no felt as though FA is a prob, esp. against HB, which should be called Medium Advance.
+
+
+NetEldrogo wrote:
+Since you're here Action Phase, can you tell me if you have problem against FA decks ?
+The deck seems very slow if you don't get your magnum out in the first 2 turns.
+
+--------------------------------------
+
+Levy AR allows yout to rinse repeat the abuse in this deck, getting even more recursion and value out of the deck. There is no way, at all, I would cut this. You can literally draw your deck by turn 6-8 in this consistently, and the point of Levy is to allow aggressive filtering while you set up for a stranglehold on game state.
+
+The Same Old Thing is there primarily to support Levy, BC it is that good. I do think the deck could profit from an Indexing, however, with Jackson Howard as popular as he is, I think this diminishes the value of this card in some situations. Additionally, I have used Same Old, many, many times to great effect, beyond Levy. I need program density (I actually wish I had 1 more program in here, to be honest), and Indexing doesn't provide that for me. The deck leans on program tutoring and efficiency. I would love to cut the Plascretes, but they serve too strong a foil for Scorched. 
+
+--------------------------------------
+
+I tried Sahasrara--it did nothing for the deck; sure it cheapens installs, but that is it. I don't know why I would change Magnum for Armitage. MO is the perfect card for this deck, and frankly I think it shines here, as you cannot/will not lose it.
+
+NetEldrogo wrote:
+I see.
+I will continue with the questions. I play the same kind of deck with Professor, scavenge being reduced to 1 because of deckspacing.
+
+Did you try to change MO for armitage and introduce sahasraha ?
+
+--------------------------------------
+
+No problem at all! I appreciate the interest! In terms of click efficiency for econ, MO is the same as Armitage, right (obv just MU usage for the same effect that doesn't run out)? Freelance Coding def is a big boost (as is the Stim Hack). I think Magnum is one of the better econ cards in the game, and it shines in this deck. Often your turns are big nasty run, reload on credits while Corp is repositioning themselves.
+
+You have to remember: with Parasite, Femme, and Atman you can outclass/kill ICE left and right, so you don't need a big full rig. The corp will trash ICE once it feels obsolete often (to lose Femme counters, etc.), so most of the time you just need A breaker, as in the RIGHT breaker. Will Scavenge and Test run, you are often resetting these effects: Atman's STR, Femme's bypass token, etc. You aren't building up a rig of each breaker; you're tailoring your rig literally AS you play the game. 
+
+-------------------------------------
+
+I am glad you liked it. I def think this is damn close to being a tourney viable deck; it takes some practice--as you said, lots of decisions and planning. I really like where the deck is currently; my only considerations for edits are:
+
+1.) Omni-Drive: I feel like this is basically like a little econ boost for the deck, as you use that 1 credit left and right when installing on this (and often you install OVER another program). I don't think Aku gives me what I want in this slot, not even for it's cheaper price tag.
+
+and
+
+2.) Same Old Thing: I think I may be overly paranoid about losing Levy. The deck really needs to rinse repeat to work optimally, having to call your shots with exact precision on the first draw through means it will def slow the deck down tempo-wise. I have just had rotten luck discarding Levy to my own Stim Hack and other various damage effects (even with 5+ cards in hand), so I built in a failsafe with Same Old Thing.
+
+If I were to cut Same Old, I def would want a nice trick up my sleeve. My knee jerk reaction is: Indexing. But like I said, Indexing is too easily disrupted now with Jackson Howard. I feel like 1 Maker's is too weak. I am wondering if a single R&D Interface would be a nice touch. It would keep enough pressure on their deck, while also giving me the lateral opportunity to roll out Nerve Agent when they over-protect R&D.
+
+I need to test a little more to see if this is the right call--I so wish I lived in a world where I could just cut the Plascretes. I have had a few games now where I was on 3 cards, and a Scorched Earth was summarily foiled by a Clone Chip. Still, I think I need Plascretes to be able to contend as a more tourney viable build. 
+
+----------------------------------
+
+THROUGH PAGE 2
