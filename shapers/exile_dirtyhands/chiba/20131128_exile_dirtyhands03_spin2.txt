@@ -1,0 +1,43 @@
+Identity: Shapers: Exile
+
+Cards: 55 / 45
+Influence: 15 / 15
+
+Event (18)
+1x Deja Vu ●●
+3x Diesel 
+3x Freelance Coding Contract 
+1x Levy AR Lab Access 
+3x Quality Time 
+3x Scavenge 
+1x Stimhack ●
+3x Test Run 
+
+Hardware (12)
+2x Akamatsu Mem Chip 
+3x Clone Chip 
+2x Dinosaurus 
+1x Feedback Filter 
+2x Plascrete Carapace 
+2x R&D Interface 
+
+Program (25)
+1x Atman 
+1x Cloak 
+1x Corroder ●●
+1x Crescentus ●
+1x Crypsis 
+1x Cyber-Cypher 
+1x Dagger 
+1x Deep Thought 
+1x Deus X 
+1x Faerie ●●●
+1x Femme Fatale ●
+1x Inti 
+3x Magnum Opus 
+1x Nerve Agent ●●
+1x Net Shield 
+1x Paricia 
+1x Sahasrara 
+3x Scheherazade ●●●
+3x Self-Modifying Code 

@@ -1,0 +1,79 @@
+The core idea of this deck is to build a 59 card Weyland deck.  Why 59 cards?  Well, for the normal 45-49 card decks, you need 20 agenda points minimum, for 50-54, you need 22 agenda points, and for 55-59, you need 24 agenda points.  This is the smallest deck size that has a minimum agenda points that is divisible by 3.  It has the lowest possible agenda card density in the current meta.  We choose Weyland, because as of Second Thoughts, Weyland is the only faction with two in-faction 3-agena-point agendas.  So you can have a 59-card deck with only 8 agenda cards, for a miniscule 13.6% agenda cards!
+
+Why do we want such low agenda density?  Well, this gives us the ability to control the cards better - we don't want to have too many cards in our hand that we can't score.  We will make use of agenda recycling cards like Jackson Howard and Rework to shuffle unwanted agendas back into our deck - since we will be drawing so few of them, this is quite feasible.  Since all of our agendas are 5/3, we can set up our deck to facilitate scoring these larger agendas, namely generating lots of money, and being able to stop the runner cold in a particular remote server for one turn.
+
+Here are some cards that help advance this strategy:
+
+The four 5/3 Agendas:
+* The Cleaners
+* Government Contracts
+* Executive Retreat
+* Priority Requisition
+
+The 'Recyclers'
+* Jackson Howard
+* Rework
+
+One-turn stoppers
+* Corporate Troubleshooter
+* Chimera
+
+Money cards
+* Building a Better World + Transactions
+  * Hedge Fund
+  * Beanstalk Royalties
+  * Successful Demonstration
+  * Restructure
+  * Green Level Clearance
+  * Commercialization
+
+Another great thing about having a fat deck - remember Jackson Howard?  He allows you to shuffle your agendas back into the deck, but over time, your deck will become more and more choc-a-bloc with agendas as the density increases.  Especially as the game gets on, and R&D is becoming a lot thinner, shuffling a few more agendas in might make R&D very vulnerable.  With a fat deck, there will be 10 more cards in R&D, and the extra dilution will keep R&D a little safer.
+
+Here is my initial deck for this strategy:
+
+Identity: Weyland: Building a Better World
+
+Cards: 59 / 45
+Agenda points: undefined / 24
+Influence: 15 / 15
+
+Agenda (8)
+3x Government Contracts 
+2x Priority Requisition 
+3x The Cleaners 
+
+Asset (6)
+3x Dedicated Response Team 
+3x Jackson Howard ●●●
+
+Ice (17)
+2x Bastion 
+3x Caduceus 
+2x Chimera 
+2x Datapike 
+1x Draco 
+1x Enigma 
+1x Hadrians Wall 
+3x Ice Wall 
+2x Shadow 
+
+Operation (25)
+3x Beanstalk Royalties 
+2x Commercialization 
+2x Cyberdex Trial 
+3x Green Level Clearance ●●●
+3x Hedge Fund 
+1x Power Grid Overload 
+3x Restructure 
+1x Rework ●
+2x SEASource ●●●●
+3x Scorched Earth 
+2x Successful Demonstration ●●
+
+Upgrade (3)
+2x Corporate Troubleshooter ●●
+1x Off the Grid 
+
+I decided to try and make use of "The Cleaners", and put three Scorched Earths in the deck, along with a SEA Source to make the threat very real.  There is so much money generation, I expect the SEA Source traces to win whenever I need them too.  Also, Dedicated Response Team benefits greatly from "The Cleaners" - a couple of DRTs can kill a runner with a full hand and no Plascretes!  I need to figure out how to use these effectively.
+
+There is a lot of room for tweaking.  Right now, there is only one Rework in the deck, I can imagine going with 0,1,2, or 3 depending on how they do.  Off The Grid is also an experiment.  I'm not sure what the best kind of ICE is - obviously Ice Walls are great for the deck, but the rest, I don't know.  It seems like I am not making good use of Priority Req - this would gel better with an Oversight AI deck, although this changes the focus quite a bit.  Also, Executive Retreat might be an option, but I can't yet figure out how to use it effectively.  Power Grid Overload could be very good or very bad (blow up Plascretes - for a small fortune!).  If the runner is careful to avoid going too low on money, these won't work very well.  Restructure may or may not work, depending on what kind of bank balances I am running.

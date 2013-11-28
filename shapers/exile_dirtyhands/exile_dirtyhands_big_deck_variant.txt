@@ -1,0 +1,64 @@
+After the release of Second Thoughts, I have decided to try a new idea with this dirty hands idea - run a fat deck with more programs!  Also, use all one-off programs, except for the core strategy cards, like SMC, Magnum Opus, and now Scheherazade.  Here is my attempt:
+
+Identity: Shapers: Exile
+
+Cards: 55 / 45
+Influence: 15 / 15
+
+Event (18)
+1x Deja Vu ●●
+3x Diesel 
+3x Freelance Coding Contract 
+1x Levy AR Lab Access 
+3x Quality Time 
+3x Scavenge 
+1x Stimhack ●
+3x Test Run 
+
+Hardware (12)
+2x Akamatsu Mem Chip 
+3x Clone Chip 
+2x Dinosaurus 
+1x Feedback Filter 
+2x Plascrete Carapace 
+2x R&D Interface 
+
+Program (25)
+1x Atman 
+1x Cloak 
+1x Corroder ●●
+1x Crescentus ●
+1x Crypsis 
+1x Cyber-Cypher 
+1x Dagger 
+1x Deep Thought 
+1x Deus X 
+1x Faerie ●●●
+1x Femme Fatale ●
+1x Inti 
+3x Magnum Opus 
+1x Nerve Agent ●●
+1x Net Shield 
+1x Paricia 
+1x Sahasrara 
+3x Scheherazade ●●●
+3x Self-Modifying Code 
+
+Why am I doing this?  Well, first of all, Scheherazade is a great card for this deck - Test Run, Scavenge, and SMC will be installing and reinstalling stuff all the time, and Scheherazade will be giving you credits every time.  Also, it has zero cost - great to put out as Scavenge fodder to get SMC (which costs 0 anyway), and it takes no memory.  As a program, it also helps fuel Freelance Coding Contract.  It's basically great.  So if we put 3 in the deck, what do we take out?  If we reduce the number of programs, we lose out in choices of programs to conjure.  By running fat, we can put a lot more programs in the deck, and have a lot more options for tutoring.  I made the decision to go one-ofs for all non-essential programs to give me more choice, and also because of some new SMC combos that I noticed to dig almost anything out of your stack (now cheap to do thanks to Scheherazade!).  More cards also gives me the opportunity to squeeze a little more important hardware in without reducing program density (another Mem Chip, and another R&D Interface).  I'm not sure about the program choices I have made - I'll have to play the deck a few times and see what I tend to use.
+
+Here are some awesome combos that I can use:
+
+BEGINNER:
+
+- Using Clone Chip or SMC mid-run to install programs
+- Test Run + Scavenge to create a permanent copy of a program
+- Quality Time / Diesel + Freelance Coding Contract for money
+
+ADVANCED:
+
+- Using Clone Chip to get a SMC, and use it to install from the Stack (possibly mid-run!)
+- Scavenge to get a SMC, and install from the Stack
+- Test Run a SMC from the heap, and install with it from the Stack (permanent copy)
+- Scavenge an installed program, and reinstall on Scheherazade (gain 1 cred + 1 card)
+
+When you draw your first 5 cards, you will probably keep anything with Quality Time, and two of any of SMC, Scheherazade, Diesel, Freelance Coding, Magnum Opus, mulligan any weaker hands.
